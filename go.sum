@@ -1,0 +1,4 @@
+github.com/gomsx/hello v0.0.0-20191108045123-d96f4acc4bcd h1:6B4swJwGeP+JPrOM9HZf0ZXMSpWQvhMmmHJQsSrFyEQ=
+github.com/gomsx/hello v0.0.0-20191108045123-d96f4acc4bcd/go.mod h1:WIpqATFdJGvYxgvQfN2baYSadV5alU5aoQx4UUsf9ug=
+github.com/gomsx/world/v2 v2.0.0 h1:zMC563jfP1Sb5GDKKrnA6JnVpQDgO4i8ruwAEge8tYA=
+github.com/gomsx/world/v2 v2.0.0/go.mod h1:ZCkiZbOvYhjZwy7TKftqutPhefOi3udaNyEG5nhbVzI=
